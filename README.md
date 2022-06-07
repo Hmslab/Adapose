@@ -74,4 +74,14 @@ If you use this code for your research, please cite our paper:
   pages={1330--1337},
   year={2021}
 }
+@article{zhang2020weakly,
+  title={Weakly supervised adversarial learning for 3D human pose estimation from point clouds},
+  author={Zhang, Zihao and Hu, Lei and Deng, Xiaoming and Xia, Shihong},
+  journal={IEEE transactions on visualization and computer graphics},
+  volume={26},
+  number={5},
+  pages={1851--1859},
+  year={2020},
+  publisher={IEEE}
+}
 ```
