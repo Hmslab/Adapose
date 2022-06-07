@@ -65,7 +65,7 @@ The joint mAPs for our model run are as follows
 
 ## Citation
 
-If you use this code for your research, please cite our paper:
+If you use this code for your research, please cite our papers:
 ```
 @inproceedings{zhang2021sequential,
   title={Sequential 3D Human Pose Estimation Using Adaptive Point Cloud Sampling Strategy.},
